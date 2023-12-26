@@ -2,7 +2,7 @@
  * number, arry
  */
 
-var box = "ben 10 toy";
+var box = "ben";
 let age = 10;
 /*you can change what's inside the box whenever you want. It's like having a container that you can use and update as needed.*/
 
